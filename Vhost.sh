@@ -2,7 +2,6 @@
 #       Shell Script for creating Apache Vhost          #
 #             With FTP user And Password                #
 #                                   By Amal CP          #
-#                                   30-10-2015          #
 #                                   itsamalcp@gmail.com #
 #########################################################
 #!/bin/bash
