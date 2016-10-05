@@ -32,7 +32,7 @@ Prerequisite :
   
   userlist_file=/etc/vsftpd.userlist
   
-  userlist_deny=NO
+  userlist_deny=NO 
   pam_service_name=ftp
 
 
