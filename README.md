@@ -39,6 +39,6 @@ Prerequisite :
 
 3) Makepasswd
 
-  $ sudo apt-get install makepasswd	
+   $ sudo apt-get install makepasswd	
 
 4) chmod u+x Vhost.sh
