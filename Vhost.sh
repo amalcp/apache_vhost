@@ -1,5 +1,5 @@
 #########################################################
-#       Shell Script for creating Apach Vhost           #
+#       Shell Script for creating Apache Vhost          #
 #             With FTP user And Password                #
 #                                   By Amal CP          #
 #                                   30-10-2015          #
