@@ -6,7 +6,7 @@ Prerequisite :
 
 2) VSFTPD server
 
-# Install VsFTPD package
+- Install VsFTPD package
   
   $ apt-get update
   $ apt-get install vsftpd
